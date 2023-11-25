@@ -1,0 +1,48 @@
+body{ background: grey;
+
+ }
+
+header{
+	background: lightblue;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+section#DatosPersonales{
+	background: lightcyan;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+section#DatosProfesionales{
+	background: lightcyan;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+section#Habilidades{
+	background: lightcyan;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+footer{
+	background: lightblue;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
